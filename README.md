@@ -1,4 +1,4 @@
-# my-proj
+# vue-simple-crud
 
 > A Vue.js project
 
